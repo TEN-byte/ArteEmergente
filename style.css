@@ -32,3 +32,8 @@ body{
     text-align: justify;
     font-family: monospace;
 }
+.manjaroImg{
+    width: 800px;
+    height: 600px;
+    border-radius: 8%;
+}
